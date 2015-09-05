@@ -1,4 +1,4 @@
-assignment_ajax_rails
+assignment_rails_api
 =====================
 
-For the puppies.
+[A Ruby on Rails AJAX API assignment which uses JavaScript, JSON, JBuilder, Unobtrusive JavaScript, remote forms, and js.erb templates](http://www.vikingcodeschool.com)
